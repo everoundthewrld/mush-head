@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAADA/P8PAAAAADwzu/8AALvLM8PM+/+wGzEzzMz72zsTMTPLzPzdOzMzs93du907MzOz3d3NuzszM9vM3c0MsDMz293d3QywMTPb3d3d/7ARw9vdvd3/sBvD3My93bsAO8PM3b39uwA8s8y83fy/AMy7u8z/AP8AwPz/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mushhead"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
