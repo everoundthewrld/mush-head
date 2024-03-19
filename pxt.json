@@ -1,8 +1,9 @@
 {
-    "name": "bowl boy",
+    "name": "mushhead",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
     },
     "files": [
         "main.blocks",
